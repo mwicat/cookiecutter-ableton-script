@@ -1,0 +1,6 @@
+{
+    "repo_name": "CustomControlSurface",
+    "package_name": "{{ cookiecutter.repo_name }}",
+    "application_title": "{{ cookiecutter.repo_name }}",
+    "application_name": "{{ cookiecutter.repo_name }}"
+}
